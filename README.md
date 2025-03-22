@@ -71,7 +71,7 @@ Recommendation: Consider combining a few user-provided features with an image up
 
 
 
-## [Income Level Prediction](https://github.gatech.edu/triordan6/Portfolio/blob/main/income_level_prediction.ipynb)
+## Income Level Prediction
 
 ### Introduction
 The year is 1999 and Big Finance Bank is looking to use the new analytics methodologies to build a model that allows their analysts to determine an individuals income. Big Finance Bank would like to use the census data collected to build a model that classifies an individual as less than or greater than 50,000. In today's day, 50,000 is equivalent to roughly 103,000. Big Finance Bank hopes to learn more about the trends associated with higher income earners based off a mix of categorical and quantitative data. The bank would like to determine what factors are more important for determining income level as well as building a model that could accurately predict income level based off these demographic traits. The data is collected from: https://archive.ics.uci.edu/dataset/2/adult. See below for the quantitative data behavior trends.
@@ -94,7 +94,7 @@ Using the SVM method allowed for an 81% accurate model to be created. This means
 
 
 
-## [🧠 Jarvis 2.0 – Voice-Activated AI Assistant](https://github.gatech.edu/triordan6/Portfolio/blob/main/speech_recognition.py)
+## [🧠 Jarvis 2.0 – Voice-Activated AI Assistant](https://github.com/timothyeriordan/Portfolio/blob/main/speech_recognition.py)
 
 This Python script implements a voice-activated virtual assistant named Jarvis 2.0. It listens for user commands, responds via speech, and can intelligently answer questions by querying Wolfram Alpha for math/computational queries and Wikipedia for general knowledge.
 
@@ -124,4 +124,4 @@ wikipedia
 wolframalpha  
 pyaudio (for microphone input)  
 Chrome browser (predefined path required for web navigation)  
-<a href="" target="_blank">Jump to Jarvis 2.0</a>
+<a href="https://github.com/timothyeriordan/Portfolio/blob/main/speech_recognition.py" target="_blank">Jump to Jarvis 2.0</a>
